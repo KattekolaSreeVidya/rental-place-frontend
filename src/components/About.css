@@ -1,0 +1,15 @@
+/* About.css */
+
+.about-page {
+    padding: 20px;
+  }
+  
+  .about-page h1 {
+    color: #f39c12;
+  }
+  
+  .about-page p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
