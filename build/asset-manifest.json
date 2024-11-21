@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rental-place-frontend/static/css/main.612efffe.css",
+    "main.js": "/rental-place-frontend/static/js/main.f2a518df.js",
+    "static/js/453.bbafc76b.chunk.js": "/rental-place-frontend/static/js/453.bbafc76b.chunk.js",
+    "index.html": "/rental-place-frontend/index.html",
+    "main.612efffe.css.map": "/rental-place-frontend/static/css/main.612efffe.css.map",
+    "main.f2a518df.js.map": "/rental-place-frontend/static/js/main.f2a518df.js.map",
+    "453.bbafc76b.chunk.js.map": "/rental-place-frontend/static/js/453.bbafc76b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.612efffe.css",
+    "static/js/main.f2a518df.js"
+  ]
+}
